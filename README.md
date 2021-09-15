@@ -20,7 +20,16 @@ Permite criar vários ambientes Python
 - Biblioteca random
 - Biblioteca time
 
-### Sobre Coleções
+### Tratamento de Erros
+
+- NameError: variável não foi definida
+- TypeError: tipos de dados incompatíveis
+- RuntimeError: erro de execução
+- SyntaxError: sintaxe digitada é inválida e não reconhecida pelo interpretador
+- ZeroDivisionError: divisão por zero
+- IndexError: índice fora da coleção
+
+## Sobre Coleções
 
 #### O que são tuplas?
 
