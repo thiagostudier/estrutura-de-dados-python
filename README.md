@@ -13,6 +13,15 @@ Permite criar vários ambientes Python
 
 ## Python
 
+### Módulos úteis
+
+- Biblioteca math
+- Biblioteca datetime
+- Biblioteca random
+- Biblioteca time
+
+### Sobre Coleções
+
 #### O que são tuplas?
 
 - Imutáveis (não pode modificar);
