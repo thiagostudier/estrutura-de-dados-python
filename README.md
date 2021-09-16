@@ -70,3 +70,20 @@ Permite criar vários ambientes Python
 - Comparação objetiva entre algoritmos
 - Considera diferenças entre poder de processamento, sistema operacional, linguagem de programação
 - O quanto a "complexidade" do algoritmo aumenta de acordo com as entradas
+
+### Funções Bio O
+
+- Constante ` O(1) `
+- - É aquela em que não há crescimento do número de operações, pois não depende do volume de dados de entrada (n). Por exemplo: o acesso direto a um elemento de uma matriz.
+- Logaritmo ` O(n) `
+- - É aquela em que o crescimento do número de operações é menor do que o do número de itens. Exemplo: caso médio do algoritmo de busca em árvores binárias ordenadas.
+- Linear ` O(n) `
+- - É aquela em que o crescimento no número de operações é diretamente proporcional ao crescimento do número de itens. Por exemplo: o algoritmo de busca em uma lista/vetor.
+- Linearitmica ou Quasilinear ` O(n log n) `
+- - É aquela em que é resultado das operações (log n) executada n vezes. Exemplo: o caso médio do algoritmo de ordenação Quicksort.
+- Quadrática ` O(2^n) `
+- - É aquela que ocorre quando os itens de dados são processados aos pares, muitas vezes com repetições dentro da outra. Com dados suficientemente grandes, tendem a se tornar muito ruim. Por exemplo: o processamento de itens de uma matriz bidimensional.
+- Exponencial ` O(2^n ) `
+- - É aquela em que a medida que n aumenta, o fator analisado (tempo ou espaço) aumenta exponencialmente. Não é executável para valores muito grandes e não são úteis do ponto de vista prático. Exemplo: busca em uma árvore binária não ordenada.
+- Fatorial ` O(n!) `
+- - É aquela em que o número de instruções executadas cresce muito rapidamente para um pequeno número de dados. Por exemplo: um algoritmo que gere todas as possíveis permutações de uma lista.
