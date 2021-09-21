@@ -86,4 +86,4 @@ Permite criar vários ambientes Python
 - Exponencial ` O(2^n ) `
 - - É aquela em que a medida que n aumenta, o fator analisado (tempo ou espaço) aumenta exponencialmente. Não é executável para valores muito grandes e não são úteis do ponto de vista prático. Exemplo: busca em uma árvore binária não ordenada.
 - Fatorial ` O(n!) `
-- - É aquela em que o número de instruções executadas cresce muito rapidamente para um pequeno número de dados. Por exemplo: um algoritmo que gere todas as possíveis permutações de uma lista.
+- - É aquela em que o número de instruções executadas cresce muito ra pidamente para um pequeno número de dados. Por exemplo: um algoritmo que gere todas as possíveis permutações de uma lista.
