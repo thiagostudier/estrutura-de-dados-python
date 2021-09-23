@@ -1,5 +1,7 @@
-# estrutura-    de-dados-python
+# Estrutura de dados com Python
 Curso Estrutura de Dados e Algoritmos em Python: O Guia Completo
+
+Grafos, árvores, listas encadeadas, ordenação, pilhas, filas, deques e mais! Tudo o que você precisa saber!
 
 ### Instalação
 
@@ -83,7 +85,16 @@ Permite criar vários ambientes Python
 - - É aquela em que é resultado das operações (log n) executada n vezes. Exemplo: o caso médio do algoritmo de ordenação Quicksort.
 - Quadrática ` O(2^n) `
 - - É aquela que ocorre quando os itens de dados são processados aos pares, muitas vezes com repetições dentro da outra. Com dados suficientemente grandes, tendem a se tornar muito ruim. Por exemplo: o processamento de itens de uma matriz bidimensional.
-- Exponencial ` O(2^n ) `
+- Exponencial ` O(2^n) `
 - - É aquela em que a medida que n aumenta, o fator analisado (tempo ou espaço) aumenta exponencialmente. Não é executável para valores muito grandes e não são úteis do ponto de vista prático. Exemplo: busca em uma árvore binária não ordenada.
 - Fatorial ` O(n!) `
 - - É aquela em que o número de instruções executadas cresce muito ra pidamente para um pequeno número de dados. Por exemplo: um algoritmo que gere todas as possíveis permutações de uma lista.
+
+## Exemplos de algoritmos e debugs
+
+https://www.cs.usfca.edu/~galles/visualization/Search.html
+
+## Pesquisas Linear e pesquisa binária
+
+- Pesquisa linear: percorrer elemento por elemento para fazer a comparação
+- Pesquisa binária: "dividir para conquistar"
